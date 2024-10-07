@@ -6,7 +6,7 @@ class SignUp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.blue,
       body: Center(
         child: Text("sgdfgd"),
       ),
